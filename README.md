@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tpops
 - 👀 I’m interested in Compilers, HPC and Accelerators
-- 🌱 I’m currently learning GPU
+- 🌱 I’m currently learning GPU Architecture
 - 💞️ I’m looking to collaborate on Compilers
 - 📫 How to reach me popoolatobi[at]hotmail[dot]com
 
